@@ -11,7 +11,7 @@
     
     if (fn == "teacher"){
         
-       alert("ok, taking you to the appropiate page");
+       alert("okk, taking you to the appropiate page");
         link = 'teacher.html';
             window.location.assign(link);
 
