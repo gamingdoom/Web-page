@@ -1,0 +1,17 @@
+h1 {
+    color: darkorange;
+    text-align: center;
+}
+
+a {
+    
+    color: steelblue;
+}
+a:hover {
+    color: cyan;
+    
+}
+body{
+    background-color: floralwhite;
+    
+}
