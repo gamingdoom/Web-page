@@ -17,7 +17,12 @@
 
        
     }
-    
+    else if(fn == "tuvia") {
+        alert("ok boomer");
+        link = 'specialaccess.html'
+            window.location.assign(link);
+
+    }
     else if(fn != "") {
         alert("are you ready to play a game "+fn);
             window.location.assign(link);
